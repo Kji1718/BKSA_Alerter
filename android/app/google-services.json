@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "387622939804",
+    "project_id": "unisentinel-alerter",
+    "storage_bucket": "unisentinel-alerter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387622939804:android:40834ed2e957f16cbf5159",
+        "android_client_info": {
+          "package_name": "com.example.bksa_alerter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387622939804-p31p3k822c6vsmrp926ads62bmfime9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMi-vxtq73a_eAypqq-MzWa3jBQcg9OGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387622939804-p31p3k822c6vsmrp926ads62bmfime9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387622939804:android:f9f23f20842099f4bf5159",
+        "android_client_info": {
+          "package_name": "com.example.unisentinel_alerter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387622939804-ck28gn438vafta5l7cj8521pf7c3ae05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unisentinel_alerter",
+            "certificate_hash": "143883833af2f8d00125c2242e56ec090e7127ca"
+          }
+        },
+        {
+          "client_id": "387622939804-p31p3k822c6vsmrp926ads62bmfime9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMi-vxtq73a_eAypqq-MzWa3jBQcg9OGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387622939804-p31p3k822c6vsmrp926ads62bmfime9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
